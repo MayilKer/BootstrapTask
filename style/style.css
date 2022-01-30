@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+#Container{
+    background-color: #212529;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.firstblock{
+    color: #fff;
+    font-size: 1.25rem;
+    
+  margin-left: 8rem;
+  
+}
+.block{
+    color: rgba(255, 255, 255, 0.55);
+     padding-left:15px;
+     display: inline-block;
+     font-size: 17px;
+     transition: 0.4s;
+}
+.block:hover{
+    color: #fff;
+    
+}
+.block1{
+    margin-left: 56rem;
+}
+#Second{
+    padding: 152px 0 96px;
+    text-align: center;
+    background-color: #207AFD;
+}
+
+#Second h1{
+    color: #fff;
+    font-size: 45px;
+    margin-bottom: 7px;
+}
+
+#Second p{
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 2rem;
+}
+
+#Second a{
+    color: #000;
+    font-size: 20px;
+    background-color: #F9FAFB;
+    padding: 1rem 1rem;
+    border-radius: 0.3rem;
+    
+}
+
+#Third{
+    padding: 144px;
+    background-color: #fff;
+    
+}
+.Inner{
+    padding: 16px;
+    text-align: left;
+    margin-left: 10rem;
+}
+
+#Third h2{
+    font-size: 30px;
+    
+}
+.Inner p{
+    font-size: 20px;
+    color: grey;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    line-height: 1.7rem;
+}
+.Inner ul{
+    font-size: 17px;
+    margin-left: 2rem;
+    line-height: 1.5rem;
+}
+
+#Fourth{
+    padding: 144px;
+    background-color: #F8F9FA;
+    
+}
+
+
+.Inner2{
+    padding: 16px;
+    text-align: left;
+    margin-left: 10rem;
+}
+
+.Inner2 h2{
+    font-size: 30px;
+}
+
+.Inner2 p{
+    font-size: 20px;
+    color: grey;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    line-height: 1.7rem;
+}
+
+#Fifth{
+    padding: 144px;
+    background-color: #fff;
+}
+
+.Inner3{
+    padding: 16px;
+    text-align: left;
+    margin-left: 10rem;
+}
+
+.Inner3 h2{
+    font-size: 30px;
+}
+
+.Inner3 p{
+    font-size: 20px;
+    color: grey;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    line-height: 1.7rem;
+}
+
+#Footer{
+    padding: 48px;
+    background-color: #212529;
+    text-align: center;
+}
+
+#Footer p{
+    color: #fff;
+    font-size: 17px;  
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #0390fc;
+    
+}
+
